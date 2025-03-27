@@ -1,0 +1,64 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+*.lock
+
+# Android specific
+android/.gradle/
+android/.idea/
+android/key.properties
+android/local.properties
+android/app/debug.keystore
+
+# iOS specific
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Runner.xcodeproj/xcuserdata/
+
+# macOS specific
+macos/Flutter/ephemeral/
+macos/Pods/
+macos/.symlinks/
+macos/Flutter/App.framework
+macos/Flutter/Flutter.framework
+macos/Flutter/Flutter.podspec
+macos/ServiceDefinitions.json
+macos/Runner.xcworkspace/
+macos/Runner.xcodeproj/project.xcworkspace/
+macos/Runner.xcodeproj/xcuserdata/
+
+# Web specific
+web/.dart_tool/
+
+# Windows specific
+windows/flutter/ephemeral/
+windows/.dart_tool/
+
+# Linux specific
+linux/flutter/ephemeral/
+linux/.dart_tool/
+
+# Firebase specific
+firebase_app_id_file.json
+
+# IDE specific
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Sensitive files
+*.jks
+*.keystore

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21249700115",
+    "project_id": "multipurpose-dcf5b",
+    "storage_bucket": "multipurpose-dcf5b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21249700115:android:9f0989ca6ab0dc9a296ae6",
+        "android_client_info": {
+          "package_name": "com.example.multipurpose_mobile_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLbenwth6lopFiLm_2lrLMVaZcEOQ2bjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
